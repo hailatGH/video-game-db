@@ -29,13 +29,15 @@ import { GameTabsComponent } from './components/game-tabs/game-tabs.component';
   ],
   imports: [
     BrowserModule,
-    BrowserAnimationsModule,
     AppRoutingModule,
+    GaugeModule.forRoot(),
     HttpClientModule,
     FormsModule,
-    GaugeModule.forRoot(),
+    BrowserAnimationsModule,
     MatFormFieldModule,
-    MatSelectModule
+    MatSelectModule,
+    MatTabsModule,
+    MatIconModule,
   ],
   providers: [
     {
