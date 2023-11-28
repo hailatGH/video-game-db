@@ -1,5 +1,7 @@
 # NgVideoGameDb
 
+![Screen Shot 2023-11-28 at 2 18 47 PM](https://github.com/hailatGH/video-game-db/assets/99496150/897ae812-4da2-4bff-81e7-c4f9ef1b9af4)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.19.
 
 ## Development server
